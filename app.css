@@ -1,0 +1,53 @@
+body{
+    background-color:#f5d9d5;
+}
+
+.navbar-brand{
+    color: rgb(178, 20, 46);
+    font-size: 1.5rem;
+    font-weight: 100;
+}
+.navbar-brand:hover{
+    color:  rgb(178, 20, 46);
+}
+.nav-link{
+    color: white;
+    font-size: 1.5rem;
+    font-weight: 200;
+}
+.nav-link:hover{
+    color:  rgb(178, 20, 46);
+}
+.heading h1{
+    font-size: 3rem;
+    font-weight: 100; 
+}
+.heading span{
+    color:  rgb(178, 20, 46);
+}
+
+.blah h2{
+    color:  rgb(178, 20, 46);
+    font-weight: 100;
+    font-size: 2.5rem;
+   
+}
+.blah p{
+    font-weight: 100;
+    font-size: 1.2rem;
+    color: #fd91b7;
+    line-height: 2;
+}
+.content{
+    margin-top: 100px;
+    margin-bottom: 100PX;
+}
+.navbar.scrolled{
+    background: rgb(222,192,222);
+}
+@media (max-width:1200px) {
+   .heading h1{
+        font-size: 2rem;
+        font-weight: 100; 
+    }
+}
